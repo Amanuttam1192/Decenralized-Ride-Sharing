@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\amanu\\OneDrive\\Desktop\\RideShare\\contracts\\CarRental.sol": {
+      "lastModificationDate": 1712631086822,
+      "contentHash": "48b8cf59f038cec54f6099c219f269ca",
+      "sourceName": "contracts/CarRental.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CarRental"
+      ]
+    },
+    "C:\\Users\\amanu\\OneDrive\\Desktop\\RideShare\\contracts\\contract\\RideShare.sol": {
+      "lastModificationDate": 1714458117408,
+      "contentHash": "9a3bb7847d461151bc102b5e78a31bb7",
+      "sourceName": "contracts/contract/RideShare.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RideSharing"
+      ]
+    }
+  }
+}
